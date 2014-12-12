@@ -1,5 +1,7 @@
 # Setup
 
+[![Build Status](https://travis-ci.org/TinaLoh/rails-practice-add-rspec.svg)](https://travis-ci.org/TinaLoh/rails-practice-add-rspec)
+
 * Clone this repo into workspace
 * cd into this repo
 * `bundle`
